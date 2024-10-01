@@ -1,0 +1,14 @@
+open cloud formation
+
+
+
+create stack
+choose existing template
+upload a template
+edit yml file with key and ami-id of a region
+then upload yml file
+give stack name 
+add tag
+next
+submit
+go to instance in the above region
